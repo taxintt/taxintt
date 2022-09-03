@@ -1,12 +1,13 @@
 ### Hi there 👋
 
 ### Skills
-- Python /Typescript
+- Python / Typescript
 - GCP 
+- Terraform etc.
 
 ### Socials
 - Twitter: https://twitter.com/taxin_tt
-- Blog: https://taxintt.hatenablog.com/
+- Zenn: https://zenn.dev/taxin
 - Speaker Deck: https://speakerdeck.com/taxin
 
 ### Meetup
