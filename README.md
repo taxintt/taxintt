@@ -1,8 +1,8 @@
-### Hi there 👋
+### 👋
 
 ### Skills
-- Python / Go / Typescript
-- AWS / GCP 
+- Go / Typescript
+- AWS
 - Terraform
 
 ### Socials
